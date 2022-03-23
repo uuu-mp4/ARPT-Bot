@@ -10,6 +10,7 @@
 # 更新说明
 
 v2.1.0
+https://dashboard.heroku.com/new?template=https://github.com/uuu-mp4/ARPT-Bot
 
 根据push提交说明，不再赘述
 
